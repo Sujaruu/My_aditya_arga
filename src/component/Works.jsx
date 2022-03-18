@@ -7,7 +7,7 @@ const Works = () => {
     <div name="work" className="w-full md:h-screen text-[#557B83] bg-[#F6F5F5]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-4">
-          <p className="text-4xl font-bold inline border-b-4 border-[#1687A7] text-[#557B83]">Works</p>
+          <p className="text-4xl font-bold inline border-b-4 border-[#1687A7] text-[#b0c2d1]">Works</p>
           <p className="py-6">// Check out some of my works</p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
